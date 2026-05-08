@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+      "#": "minecraft:fishing_rod",
+      "X": "minecraft:golden_carrot"
+    },
+  "pattern": [
+    "# ",
+    " X"
+  ],
+  "result": {
+    "count": 1,
+    "id": "pigsplus:golden_carrot_on_a_stick"
+  }
+}
