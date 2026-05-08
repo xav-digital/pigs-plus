@@ -1,17 +1,17 @@
 {
 	"schemaVersion": 1,
 	"id": "pigsplus",
-	"version": "${version}",
+	"version": "1.0.0",
 	"name": "Pigs Plus",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Before horses, there were pigs. This mod adds a Golden Carrot on a Stick for faster pig transportation, the ability for pigs to swim while riding them, and more.",
 	"authors": [
-		"Me!"
+		"XAV Source"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/xav-digital/pigs-plus",
+		"sources": "https://github.com/xav-digital/pigs-plus"
 	},
-	"license": "CC0-1.0",
+	"license": "GNU General Public License v3.0",
 	"icon": "assets/pigsplus/icon.png",
 	"environment": "*",
 	"entrypoints": {
